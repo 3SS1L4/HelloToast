@@ -4,8 +4,11 @@
 
 > Application Android de démonstration — compteur interactif avec Toast
 
-<video src="assets/record_toast_lab.mp4" width="300" autoplay loop muted playsinline></video>
+[![Demo HelloToast](https://img.shields.io/badge/▶_Voir_la_démo-record__toast__lab.mp4-1a1a1a?style=for-the-badge)](assets/record_toast_lab.mp4)
 
+<br/>
+
+[<img src="https://placehold.co/300x580/1a1a1a/f0f0f0?text=▶  Cliquer pour voir la démo" alt="Demo HelloToast" width="300"/>](assets/record_toast_lab.mp4)
 
 <br/><br/>
 
@@ -51,7 +54,7 @@ Le XML définit **ce qui est affiché**, le Java définit **ce qui se passe**. L
 ```
 HelloToast/
 ├── assets/
-│   └── record_toast_lab.mp4                        ← démonstration visuelle
+│   └── record_toast_lab.mp4            ← démonstration visuelle
 ├── app/src/main/
 │   ├── java/com/example/hellotoast/
 │   │   └── MainActivity.java           ← logique de l'application
@@ -127,4 +130,4 @@ git clone https://github.com/3SS1L4/HelloToast.git
 
 ## Auteur
 
-AMSOU ISMAIL
+AMSOU ISMAIL — Lab de développement mobile
