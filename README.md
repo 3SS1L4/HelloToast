@@ -8,7 +8,8 @@
 
 <br/>
 
-[<img src="https://placehold.co/300x580/1a1a1a/f0f0f0?text=▶  Cliquer pour voir la démo" alt="Demo HelloToast" width="300"/>](assets/record_toast_lab.mp4)
+<img src="assets/record_toast_lab.gif" alt="Demo HelloToast" width="300"/>
+
 
 <br/><br/>
 
