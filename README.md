@@ -6,7 +6,6 @@
 
 <video src="assets/record_toast_lab.mp4" width="300" autoplay loop muted playsinline></video>
 
-<img src="https://placehold.co/300x580/1a1a1a/f0f0f0?text=▶  Démo  HelloToast" alt="placeholder démo" width="300"/>
 
 <br/><br/>
 
