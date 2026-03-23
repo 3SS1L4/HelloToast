@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="assets/record_toast_lab.gif" alt="Demo HelloToast" width="300"/>
+<img src="assets/record_toast_lab.gif" alt="Demo HelloToast" width="500"/>
 
 
 <br/><br/>
