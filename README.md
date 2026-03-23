@@ -32,11 +32,11 @@ L'application propose deux fonctionnalités :
 
 ```
 ┌─────────────────────────┐        ┌──────────────────────────────┐
-│   activity_main.xml     │        │      MainActivity.java        │
-│  ───────────────────    │        │  ──────────────────────────   │
-│  TextView  text_count   │ ◄──────│  textCount.setText(count)     │
-│  Button  button_toast   │ ──────►│  Toast.makeText(...).show()   │
-│  Button  button_count   │ ──────►│  count++ → setText()          │
+│   activity_main.xml     │        │      MainActivity.java       │
+│  ───────────────────    │        │  ──────────────────────────  │
+│  TextView  text_count   │ ◄──────│  textCount.setText(count)    │
+│  Button  button_toast   │ ──────►│  Toast.makeText(...).show()  │
+│  Button  button_count   │ ──────►│  count++ → setText()         │
 └─────────────────────────┘        └──────────────────────────────┘
          UI / Layout                        Logique / Événements
 ```
