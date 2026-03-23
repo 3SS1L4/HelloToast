@@ -4,23 +4,8 @@
 
 > Application Android de démonstration — compteur interactif avec Toast
 
-<!-- ─────────────────────────────────────────────────────────────────
-     VIDÉO / GIF DE DÉMONSTRATION
-     
-     Étape 1 : Crée un dossier  assets/  à la racine du projet
-     Étape 2 : Dépose ton fichier  demo.gif  ou  demo.mp4  dedans
-     Étape 3 : Fais un commit + push sur GitHub
-     Étape 4 : Décommente UNE des deux options ci-dessous
-     Étape 5 : Supprime ce bloc de commentaire et le placeholder
-     ───────────────────────────────────────────────────────────────── -->
+<video src="assets/record_toast_lab.mp4" width="300" autoplay loop muted playsinline></video>
 
-<!-- Option A — GIF animé (s'affiche directement, recommandé) -->
-<!-- <img src="assets/demo.gif" alt="Demo HelloToast" width="300"/> -->
-
-<!-- Option B — Vidéo MP4 (lecture auto, sans son) -->
-<!-- <video src="assets/demo.mp4" width="300" autoplay loop muted playsinline></video> -->
-
-<!-- Placeholder — à supprimer une fois ta vidéo ajoutée -->
 <img src="https://placehold.co/300x580/1a1a1a/f0f0f0?text=▶  Démo  HelloToast" alt="placeholder démo" width="300"/>
 
 <br/><br/>
@@ -42,27 +27,6 @@ L'application propose deux fonctionnalités :
 
 - Afficher un **Toast** — un message temporaire qui apparaît en bas de l'écran
 - **Incrémenter un compteur** — la valeur se met à jour en temps réel à chaque appui
-
----
-
-## Comment ajouter ta vidéo
-
-> GitHub prend en charge les fichiers `.gif` et `.mp4` directement dans les README.
-
-```
-HelloToast/
-├── assets/
-│   └── demo.gif        ← dépose ton fichier ici
-├── app/
-└── README.md
-```
-
-**Créer un GIF depuis une capture Android :**
-
-1. Dans Android Studio → `View > Tool Windows > Logcat` → icône caméra pour enregistrer l'écran
-2. Convertis la vidéo en GIF sur [ezgif.com/video-to-gif](https://ezgif.com/video-to-gif)
-3. Réduis à ~300px de large pour un chargement rapide
-4. Dépose le fichier dans `assets/` et décommente l'Option A dans ce README
 
 ---
 
@@ -88,7 +52,7 @@ Le XML définit **ce qui est affiché**, le Java définit **ce qui se passe**. L
 ```
 HelloToast/
 ├── assets/
-│   └── demo.gif                        ← démonstration visuelle
+│   └── record_toast_lab.mp4                        ← démonstration visuelle
 ├── app/src/main/
 │   ├── java/com/example/hellotoast/
 │   │   └── MainActivity.java           ← logique de l'application
