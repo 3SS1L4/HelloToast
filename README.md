@@ -126,4 +126,4 @@ git clone https://github.com/3SS1L4/HelloToast.git
 
 ## Auteur
 
-AMSOU ISMAIL — Lab de développement mobile
+AMSOU ISMAIL — Lab de développement mobile 
